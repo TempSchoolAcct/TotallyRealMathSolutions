@@ -2,7 +2,7 @@
 
 
 #### General Cheatsheets
-* [General Cheatsheets](https://cheatsheetseries.owasp.org/)
+* [Giant Collection of CheatSheets](https://cheatsheetseries.owasp.org/)
 
 #### Windows Scripts
 * [Jaws Github Original](https://github.com/411Hall/JAWS) - The files are also included in the Jaws-Master folder
