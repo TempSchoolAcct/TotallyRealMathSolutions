@@ -5,7 +5,7 @@
 * [General Cheatsheets](https://cheatsheetseries.owasp.org/)
 
 #### Windows Scripts
-* [Jaws Github](https://github.com/411Hall/JAWS)
+* [Jaws Github](https://github.com/411Hall/JAWS) - The files are all above
 
 #### Blue Team Info
 * [Blue Team Github](https://github.com/sans-blue-team/blue-team-wiki)
