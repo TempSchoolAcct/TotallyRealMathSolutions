@@ -12,6 +12,14 @@
 * [Blue Team Wiki](https://www.sans.org/blog/blue-team-defender-guide-capture-the-flag-cheat-sheet/)
 * [Blue Team CheatSheet](https://www.opsfolio.com/resource-center-cat/cheat-sheets/ciso-blue-team-sysadmin-and-webadmin-cheat-sheets/)
 
-#### Youtube Videos
-* [Hardening Windows Server 2003](https://www.youtube.com/watch?v=cPW7qOC0Hog)
-* [Hardening Windows Server 2008](https://www.youtube.com/watch?v=ycrqbu0rVnI)
+#### Hardening Operating Systems
+* [Hardening Windows Server 2003](https://www.youtube.com/watch?v=cPW7qOC0Hog) - Video
+* [Hardening Windows Server 2008](https://www.youtube.com/watch?v=ycrqbu0rVnI) - Video
+* [Hardening Centos-7](https://highon.coffee/blog/security-harden-centos-7/)
+
+#### Stuff About Previous CCDCs
+* [Interview with Previous Winners](https://www.csis.org/podcasts/technology-policy-podcast/interview-winners-national-collegiate-cyber-defense-competition)
+
+
+#### Basic / Misc. Stuff
+* [Get IP Address Information](https://bgp.he.net/)
