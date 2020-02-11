@@ -4,6 +4,7 @@
 #### General Cheatsheets
 * [Giant Collection of General CheatSheets](https://cheatsheetseries.owasp.org/)
 * [CLI Networking Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/7-1/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking)
+* [How to win CCDC.com](http://howtowinccdc.com/wiki/)
 
 #### Windows Scripts
 * [Jaws Github Original](https://github.com/411Hall/JAWS) - The files are also included in the Jaws-Master folder
