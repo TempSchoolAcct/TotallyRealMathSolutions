@@ -29,4 +29,4 @@
 #### Basic / Misc. Stuff
 * [Get IP Address Information](https://bgp.he.net/)
 
-![Hint](https://imgur.com/a/opIKhMC)
+<img src="https://imgur.com/a/opIKhMC">
