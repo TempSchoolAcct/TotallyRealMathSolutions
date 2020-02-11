@@ -6,7 +6,10 @@
 * [CLI Networking Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/7-1/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking)
 * [How to win CCDC.com](http://howtowinccdc.com/wiki/)
 
-#### Windows Scripts
+#### Documentation
+* [Palo Alto Pan-OS Documentation](https://docs.paloaltonetworks.com/pan-os.html)
+
+#### Scripts
 * [Jaws Github Original](https://github.com/411Hall/JAWS) - The files are also included in the Jaws-Master folder
 
 #### Blue Team Info
@@ -22,7 +25,6 @@
 
 #### Stuff About Previous CCDCs
 * [Interview with Previous Winners](https://www.csis.org/podcasts/technology-policy-podcast/interview-winners-national-collegiate-cyber-defense-competition)
-
 
 #### Basic / Misc. Stuff
 * [Get IP Address Information](https://bgp.he.net/)
