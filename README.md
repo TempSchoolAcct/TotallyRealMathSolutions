@@ -27,16 +27,20 @@
 
 #### Basic / Misc. Stuff
 * [Get IP Address Information](https://bgp.he.net/)
-* 2319
-<img src="CCDChint.jpg">
 
+#### Antivirus
+* Windows
+  * Windows Defender
+* Linux
+  * sshguard
 
-### High Risk Ports
+#### High Risk Ports
 #### Windows
 * TCP
   * 135
   * 137 - 139
   * 445
+  * 2319
 
 * UDP
   * 161 - snmp
@@ -50,3 +54,5 @@
   
 * UDP
   * 161 - snmp
+  
+<img src="CCDChint.jpg">
