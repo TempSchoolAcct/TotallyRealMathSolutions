@@ -1,26 +1,4 @@
 # List of useful CCDC Links / Scripts / Random Information
-
-### High Risk Ports
-#### Windows
-* TCP
-  * 135
-  * 137 - 139
-  * 445
-
-* UDP
-  * 161 - snmp
-
-#### Linux
-* TCP
-  * 23
-  * 514 - rsh
-  * 2049 - nfs
-  * 3632 - DISTCC
-  
-* UDP
-  * 161 - snmp
-
-
 #### General Cheatsheets
 * [Giant Collection of General CheatSheets](https://cheatsheetseries.owasp.org/)
 * [CLI Networking Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/7-1/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking)
@@ -51,3 +29,24 @@
 * [Get IP Address Information](https://bgp.he.net/)
 * 2319
 <img src="CCDChint.jpg">
+
+
+### High Risk Ports
+#### Windows
+* TCP
+  * 135
+  * 137 - 139
+  * 445
+
+* UDP
+  * 161 - snmp
+
+#### Linux
+* TCP
+  * 23
+  * 514 - rsh
+  * 2049 - nfs
+  * 3632 - DISTCC
+  
+* UDP
+  * 161 - snmp
