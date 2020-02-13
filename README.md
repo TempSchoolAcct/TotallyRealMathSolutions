@@ -1,4 +1,4 @@
-# List of useful CCDC Links / Scripts / Random Information
+# List of useful CCDC Links / Scripts
 #### General Cheatsheets
 * [Giant Collection of General CheatSheets](https://cheatsheetseries.owasp.org/)
 * [CLI Networking Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/7-1/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking)
