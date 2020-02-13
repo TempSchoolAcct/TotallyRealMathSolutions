@@ -5,6 +5,7 @@
 * [Giant Collection of General CheatSheets](https://cheatsheetseries.owasp.org/)
 * [CLI Networking Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/7-1/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking)
 * [How to win CCDC.com](http://howtowinccdc.com/wiki/)
+* [Blue Team Cheat Sheet](https://github.com/chrisjd20/Blue-Team-Cheat-Sheets/blob/master/BTCSwGSEnotes.pdf)
 
 #### Documentation
 * [Palo Alto Pan-OS Documentation](https://docs.paloaltonetworks.com/pan-os.html)
