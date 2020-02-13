@@ -6,7 +6,6 @@
 * Monitoring Network Connections
   * Windows - 
   * Linux - 
-  
 
 #### Antivirus
 * Windows
