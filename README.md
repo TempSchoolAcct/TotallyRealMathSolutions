@@ -1,24 +1,24 @@
 # List of useful CCDC Links / Scripts / Random Information
 
-#### High Risk Ports
-##### Windows
+### High Risk Ports
+#### Windows
 * TCP
- * 135
- * 137 - 139
- * 445
+  * 135
+  * 137 - 139
+  * 445
 
 * UDP
- * 161 - snmp
+  * 161 - snmp
 
 ##### Linux
 * TCP
- * 23
- * 514 - rsh
- * 2049 - nfs
- * 3632
+  * 23
+  * 514 - rsh
+  * 2049 - nfs
+  * 3632 - DISTCC
   
 * UDP
- * 161 - snmp
+  * 161 - snmp
 
 #### General Cheatsheets
 * [Giant Collection of General CheatSheets](https://cheatsheetseries.owasp.org/)
