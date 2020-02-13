@@ -1,4 +1,22 @@
-# List of useful CCDC Links / Scripts
+# List of useful CCDC Links / Scripts / Random Information
+
+#### High Risk Ports
+##### Windows
+* TCP
+ * 135
+ * 137 - 139
+ * 445
+* UDP
+ * 161
+
+##### Linux
+* TCP
+ * 23
+ * 514
+ * 2049
+ * 3632
+* UDP
+ * 161
 
 
 #### General Cheatsheets
