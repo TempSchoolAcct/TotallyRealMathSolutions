@@ -1,3 +1,17 @@
+#### Game Plan
+1. Identify Services - Application & Version & Operating System
+2. Basic Configuration of Services - areas of concern
+ a. Anonmous Auth
+ b. Allows access to too many directories
+ c. Allows file uploads
+ d. Excessive user privileges
+3. Google all apps & versions with remote access for public exploits & vulns.
+4. Patches to culn services
+5. If a service is active but not scored
+ a. Stop it
+ b. Block it
+6. Bakcup copies of email, dbmx, web applications, Domain Controlls, IPAM
+
 #### Useful Commands
 * Monitoring Users
   * Windows - net users
@@ -6,6 +20,14 @@
 * Monitoring Network Connections
   * Windows - 
   * Linux - 
+  
+  
+#### Windows Hardening
+* Local Computer Policy
+  * Windows Settings
+    * Security Settings
+      * Local Policies
+        * LDAP requries
 
 #### Antivirus
 * Windows
